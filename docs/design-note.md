@@ -1,6 +1,6 @@
 # Design Note — AI-Powered Task Manager
 
-**Author:** Muskan Bansal  
+**Author:** Khushboo  
 **Date:** 2026-10-27
 
 ---
